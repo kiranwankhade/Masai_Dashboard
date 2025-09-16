@@ -1,4 +1,4 @@
-# Project Name: Dashboard Masai SChool 
+# Project Name: Dashboard Masai School 
 
 ## About
 This project provides a platform for users to register for events, take the MSAT assessment, and subsequently view their results. It also provides an extensive onboarding process for users.
