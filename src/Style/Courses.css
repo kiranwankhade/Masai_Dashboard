@@ -1,0 +1,47 @@
+.custom-slider .slick-slide>div {
+    width: 90%;
+    height:90%;
+    margin: auto;
+    margin: 0px 10px 0px 10px;
+    position: relative;
+  }
+  
+  .custom-slider .slick-prev:before,
+  .custom-slider .slick-next:before {
+      
+      font-size: 30px;
+      color: #5388c0;
+      position: absolute;
+      top: 10rem;
+      
+
+  }
+  .custom-slider .slick-prev{
+    left: 50rem;
+  }
+  .custom-slider .slick-next{
+    left: 52rem;
+  }
+
+  @media (max-width: 768px) {
+  
+    .custom-slider .css-reyp52 {
+     height: 31rem;
+     margin-bottom: 8rem;
+    }
+    
+    .custom-slider .slick-prev:before,
+    .custom-slider .slick-next:before {
+      top: 13rem;
+      color: #5388c0;
+    }
+    .custom-slider .slick-prev{
+      z-index: 1;
+      left: 16rem;
+    }
+    .custom-slider .slick-next{
+      left: 18rem;
+    }
+  }
+
+  

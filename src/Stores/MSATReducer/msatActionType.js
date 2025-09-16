@@ -1,0 +1,4 @@
+export const SET_SELECTED_COURSE  ="SET_SELECTED_COURSE";
+
+export const GET_COURSE_ID = "GET_COURSE_ID";
+export const MSAT_RESULT= "MSAT_RESULT";
